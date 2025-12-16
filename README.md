@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammed Ahmed Mohammed Hassanein Dakheel
 
-<!--
-**mohammed-hassanein/mohammed-hassanein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student** at Faculty of Computers & Information – kafrelsheikh University  
+💻 Backend Developer focused on PHP & Laravel  
+📚 Using this GitHub account mainly for learning, academic projects, and skill development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Academic Information
+- University: Kafr El-Sheikh University
+- Faculty: Computers & Information
+- Department: Information Systems
+- Status: Undergraduate Student
+
+---
+
+## 🧠 Technical Skills
+### Backend Development
+- PHP
+- Laravel Framework
+- RESTful APIs
+- MVC Architecture
+- Authentication & Authorization
+- Database Design
+
+### Databases
+- MySQL
+- Basic SQL Queries & Relationships
+
+### Programming & CS Fundamentals
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms (Basics)
+- Problem Solving
+
+### Tools & Technologies
+- Git & GitHub
+- Postman
+- Linux (Basic)
+- Composer
+
+---
+
+## 🚀 Learning & Goals
+- Deepen knowledge in backend development using Laravel
+- Build secure and scalable web applications
+- Improve database optimization skills
+- Learn backend best practices and software architecture
+- Participate in academic and open-source projects
+
+---
+
+## 📂 Projects
+This account includes:
+- University assignments
+- Backend practice projects
+- Laravel-based applications
+- Educational experiments and learning repositories
+
+---
+
+## 📫 Contact
+- Email: Mohamed_1179a@fci.kfs.edu.eg
+- Linkedin: linkedin.com/in/mohameda7med
+
+---
+
+⭐ This GitHub account is primarily used for **educational purposes**, coursework, and learning backend development.
