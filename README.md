@@ -1,9 +1,6 @@
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F05340&center=true&vCenter=true&width=650&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mohamed+Hassanein;Backend+Developer+%F0%9F%87%AA%F0%9F%87%AC;Laravel+%26+PHP+Specialist;Building+scalable+APIs%2C+not+just+CRUD." alt="Typing SVG" />
-
 <br/>
-
 <a href="https://linkedin.com/in/mohameda7med" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -13,7 +10,9 @@
 <a href="https://github.com/mohammed-hassanein">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
+<a href="https://www.mohamedhassanein.software" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 </div>
 
 ---
@@ -78,10 +77,8 @@ RESTful APIs · API Resources · Form Requests · Eloquent ORM · Pagination · 
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=mohammed-hassanein&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-hassanein&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" />
-
 </div>
 
 ---
@@ -95,10 +92,8 @@ RESTful APIs · API Resources · Form Requests · Eloquent ORM · Pagination · 
 ---
 
 <div align="center">
-
 <sub>
   <b>"Clean code is not written by following rules. It is written by a programmer who cares."</b><br/>
   — Shipping real backends, in production, one endpoint at a time.
 </sub>
-
 </div>
